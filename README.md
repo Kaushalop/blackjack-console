@@ -5,6 +5,8 @@ Download the Jar from here : https://drive.google.com/file/d/1LBi7mU1uDu_9Fs0Mvt
 You want to run this application then you can run
 java -jar BlackJack.jar
 
+[![CodeFactor](https://www.codefactor.io/repository/github/kaushalop/blackjack-console/badge)](https://www.codefactor.io/repository/github/kaushalop/blackjack-console)
+
 # MIT License
 
 Copyright (c) 2018 kaushalop
